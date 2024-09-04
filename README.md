@@ -2,7 +2,7 @@
 
 Telegram-бот для конвертации валют.
 
-Имя в телеграме: @SFCryptoTutorialBot
+Имя в Telegram: @SFCryptoTutorialBot
 
 Этот Telegram-бот знает несколько команд:
 
