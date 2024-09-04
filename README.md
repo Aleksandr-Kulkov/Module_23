@@ -1,5 +1,4 @@
-# Module_23
-Module_23 - Task_23.6.1
+# SFCryptoTutorialBot
 
 Телеграм-бот для конвертации валют. Имя в телеграме: @SFCryptoTutorialBot
 
