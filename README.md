@@ -1,4 +1,4 @@
-# SFCryptoTutorialBot
+# sf-crypto-tutorial-bot
 
 Telegram-бот для конвертации валют.
 
